@@ -140,7 +140,7 @@ After iterating through, and making adjustments to, and evaluating 3 regression 
 Given the model we produced, we were able to create functions that would take the user inputs and output a prediction. In this example, the potential client would input the numbers after the colon:
 
 
-![Example Prediction](Images/Example_Prediction.png)
+![Example Prediction](Images/example_prediction.png)
 
 
 
